@@ -8,7 +8,7 @@ if (nums[i]>=10 ) {
 
     count++;
 
-    console.log(`number: ${nums[i]}`);
+    console.log(`numbers greater than 10: ${nums[i]}`);
 }
 
 
